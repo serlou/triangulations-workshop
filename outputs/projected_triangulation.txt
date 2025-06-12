@@ -1,0 +1,37 @@
+\begin{tikzpicture}
+\draw[line width=0.05mm,   black] (0.000000,0.476258) -- (0.501119,0.819991);
+\draw[line width=0.05mm,   black] (0.501119,0.819991) -- (0.163998,1.000000);
+\draw[line width=0.05mm,   black] (0.163998,1.000000) -- (0.000000,0.476258);
+\draw[line width=0.05mm,   black] (0.501119,0.819991) -- (0.163998,1.000000);
+\draw[line width=0.05mm,   black] (0.163998,1.000000) -- (0.794040,0.873767);
+\draw[line width=0.05mm,   black] (0.794040,0.873767) -- (0.501119,0.819991);
+\filldraw[black] (0.000000,0.476258) circle (0.1pt);
+\filldraw[black] (0.501119,0.819991) circle (0.1pt);
+\filldraw[black] (0.163998,1.000000) circle (0.1pt);
+\filldraw[black] (0.794040,0.873767) circle (0.1pt);
+\draw[line width=0.05mm,   black] (0.000000,0.066262) -- (0.501119,0.000000);
+\draw[line width=0.05mm,   black] (0.501119,0.000000) -- (0.163998,0.385006);
+\draw[line width=0.05mm,   black] (0.163998,0.385006) -- (0.000000,0.066262);
+\draw[line width=0.05mm,   black] (0.501119,0.000000) -- (0.163998,0.385006);
+\draw[line width=0.05mm,   black] (0.163998,0.385006) -- (0.794040,0.361272);
+\draw[line width=0.05mm,   black] (0.794040,0.361272) -- (0.501119,0.000000);
+\filldraw[black] (0.000000,0.066262) circle (0.1pt);
+\filldraw[black] (0.501119,0.000000) circle (0.1pt);
+\filldraw[black] (0.163998,0.385006) circle (0.1pt);
+\filldraw[black] (0.794040,0.361272) circle (0.1pt);
+\draw[densely dotted, line width=0.05mm,   black] (0.000000,0.476258) -- (0.000000,0.066262);
+\draw[densely dotted, line width=0.05mm,   black] (0.501119,0.819991) -- (0.501119,0.000000);
+\draw[densely dotted, line width=0.05mm,   black] (0.163998,1.000000) -- (0.163998,0.385006);
+\draw[densely dotted, line width=0.05mm,   black] (0.794040,0.873767) -- (0.794040,0.361272);
+\filldraw[black] (0.000000,0.476258) circle (0.1pt);
+\filldraw[black] (0.501119,0.819991) circle (0.1pt);
+\filldraw[black] (0.163998,1.000000) circle (0.1pt);
+\filldraw[black] (0.794040,0.873767) circle (0.1pt);
+\filldraw[black] (0.000000,0.066262) circle (0.1pt);
+\filldraw[black] (0.501119,0.000000) circle (0.1pt);
+\filldraw[black] (0.163998,0.385006) circle (0.1pt);
+\filldraw[black] (0.794040,0.361272) circle (0.1pt);
+\node[scale=0.2] at (0.601119,0.769991) {$(x_i,y_i,z_i)$};
+\node[scale=0.2] at (0.601119,0.000000) {$(x_i,y_i)$};
+\node[scale=0.2] at (0.551119,0.491995) {$z_i$};
+\end{tikzpicture}
