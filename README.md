@@ -12,4 +12,4 @@ Abstract: This paper presents and analyses a new family of linear subdivision sc
 Copyright (c) 2025 Costanza Conti, Sergio López-Ureña, Dionisio F. Yáñez-Avedaño.
 
 The first author is members of the INdAM research group GNCS, which has partially supported this work accomplished within RITA and UMI-TAA groups of which she is a member, as well as through the ``Talent Attraction'' invited-researcher stays programme of the Vice-Principal for Research at the Universitat de València.
-This research has been supported through project PID2023-146836NB-I00 funded by MCIU/AEI/10.13039/ 501100011033.
+This research has been supported through project PID2023-146836NB-I00 funded by MCIU/AEI/10.13039/501100011033.
